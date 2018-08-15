@@ -1,0 +1,24 @@
+ Volume in drive C is Windows
+ Volume Serial Number is DA8E-92F0
+
+ Directory of C:\Users\ishan.anand\github-demo
+
+08/15/2018  01:43 PM    <DIR>          .
+08/15/2018  01:43 PM    <DIR>          ..
+08/15/2018  01:38 PM                27 README.md
+08/15/2018  01:43 PM                 0 start.txt
+               2 File(s)             27 bytes
+               2 Dir(s)  377,015,103,488 bytes free
+ Volume in drive C is Windows
+ Volume Serial Number is DA8E-92F0
+
+ Directory of C:\Users\ishan.anand\github-demo
+
+08/15/2018  01:43 PM    <DIR>          .
+08/15/2018  01:43 PM    <DIR>          ..
+08/15/2018  01:38 PM                27 README.md
+08/15/2018  01:43 PM               404 start.txt
+               2 File(s)            431 bytes
+               2 Dir(s)  377,015,099,392 bytes free
+
+This is a gi test setup
